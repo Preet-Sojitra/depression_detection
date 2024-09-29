@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+papers
+raw-dataset
+to_extract
+
+src/*/*.wav
+
+src/*/*.pkl
+src/*/*.npy
