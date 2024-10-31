@@ -5,6 +5,7 @@ raw-dataset
 extracted_audio
 to_extract
 depressed_audio_kaggle
+extracted_features
 
 src/*/*.wav
 
