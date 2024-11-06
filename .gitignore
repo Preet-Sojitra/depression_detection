@@ -6,6 +6,7 @@ extracted_audio
 to_extract
 depressed_audio_kaggle
 extracted_features
+audio_chunks
 
 src/*/*.wav
 
